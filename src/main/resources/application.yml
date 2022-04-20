@@ -1,0 +1,6 @@
+kafka:
+  group:
+    id: demo-group
+  topic:
+    message: inbox
+    output: outbox
